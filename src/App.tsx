@@ -19,6 +19,8 @@ function App() {
           Edit <code>App.tsx</code> and save to test HMR updates.
         </p>
         <p>hello this is edit text</p>
+        
+        <p>hello this is edit text 22222</p>
         <p>
           <a
             className="App-link"
